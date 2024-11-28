@@ -39,8 +39,6 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-## transition: fade-out
-
 # O que é SSRF?
 
 - 🔍 **Definição** - Vulnerabilidade que permite atacantes fazerem requisições HTTP arbitrárias através do servidor
