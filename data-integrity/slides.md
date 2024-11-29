@@ -51,7 +51,7 @@ Modificações não autorizadas em software, código ou dados
 - ⚙️ **Configurações de Sistemas** - modificações não autorizadas em configurações podem afetar a segurança e o desempenho
 - 🔄 **Pipelines de CI/CD** - vulnerabilidades nos processos de integração e entrega contínua podem comprometer o ciclo de desenvolvimento
 
-Le [Software and Data Integrity Failures](https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures/)
+Leia mais sobre [Software and Data Integrity Failures](https://owasp.org/Top10/A08_2021-Software_and_Data_Integrity_Failures/)
 
 <!--
 You can have `style` tag in markdown to override the style for the current page.
